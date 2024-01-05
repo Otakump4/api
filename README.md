@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/2a30b2d0a9c6a1691d805.jpg" alt="ZERO TWO" width="720">
+<img src= "https://telegra.ph/file/fcc43d7ecee92a01aa168.jpg" alt="ZERO TWO" width="720">
 </p>
 
 <p align="center">
