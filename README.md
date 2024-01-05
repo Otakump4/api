@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝒁𝑬𝑹𝑶-𝑻𝑾𝑶+𝐕8.0;API+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄-𝐈𝐂𝐄;1500+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2024;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝒁𝑬𝑹𝑶-𝑻𝑾𝑶+𝐕8.0;API+2024;𝐋𝐔𝐂𝐀𝐒-𝐌𝐎𝐃-𝐃𝐎𝐌𝐈𝐍𝐀✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
