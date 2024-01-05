@@ -1,0 +1,14 @@
+{
+  "name": "lucas-api",
+  "version": "8.0.0",
+  "description": "api criada pelo lucas mod domina, se for repassar, deixe os creditos || ©Copyright_by lucas",
+  "main": "index.js",
+  "author": "©Copyright_by lucas mod domina",
+  "license": "MIT",
+  "dependencies": {
+   "express": "^4.18.2",
+   "fs": "^0.0.2",
+   "cors": "^2.8.5",
+   "ssl-express-www": "^3.2.1"
+   }
+}
